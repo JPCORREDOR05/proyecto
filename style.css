@@ -50,7 +50,7 @@ height: 300px;
 width: 100%;
 }
 .buy{
-    margin-left: 35%;
+    margin-left: 40%;
 }
 
 /* servicios */
@@ -368,5 +368,14 @@ margin-bottom: 20px;
 
 .button:hover{
     background-color:rgb(231, 168, 214) !important;
+}
+ 
+/* pagina cotizar */
+
+#factura .titulo{
+    width: 100%;
+    color: #000;
+    text-align: center;
+    
 }
 

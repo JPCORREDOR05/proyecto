@@ -1,25 +1,29 @@
 body {
     font-family: 'roboto', sans-serif;
     overflow-x: hidden;
+    
    
 }
  
 .logo{
-    width:200px;
+    width:69px;
+    
 }
+
 
 /* menu */
 #menu{
-    background: linear-gradient(to right, #b416e9 0%, #351fe0 100%) !important;
+    background: linear-gradient(to right, #e9d5f1 0%, #aea6eb 100%) !important;
     /* background-color:rgb(177, 37, 232) !important; */
 }
 
 #menu a, button{
 font-weight: bold;
 font-size: 16px;
+color: #000 !important;
 }
 #menu a:hover{
-    color: #080423;
+    color: #614fef !important;
     
 }
 
@@ -318,14 +322,14 @@ footer p{
 
 .form-register{
     width: 400px;
-    background: linear-gradient(to right, #050221 0%, #020203 100%) ;
+    background: linear-gradient(to right, #b4b0d4 0%, #9b9bc5 100%) ;
     padding: 30px;
     margin: auto;
     margin-top: 100px;
     border-radius: 4px;
     font-family: "roboto";
     color: white;
-    box-shadow: 7px 13px 37px rgb(72, 5, 38);
+    box-shadow: 7px 13px 37px rgb(79, 55, 100);
     border: 2px solid #3a3560;
 }
 .form-register h4 {
@@ -335,11 +339,11 @@ margin-bottom: 20px;
 }
 .controls {
     width: 100%;
-    background: #050221;
+    background: #bab6da;
     padding: 10px;
     border-radius: 4px;
     margin-bottom: 16px;
-    border: 2px solid rgb(96, 18, 164);
+    border: 2px solid rgb(139, 102, 175);
     font-family: "roboto";
     font-size: 18px;
     color: #fff;
@@ -354,15 +358,15 @@ margin-bottom: 20px;
 }
 
 .button{
-    background-color: rgb(127, 16, 238) !important;
+    background-color: rgb(178, 150, 206) !important;
     border-radius: 6px;
-    border: rgb(117, 10, 231)!important;
+    border: rgb(222, 203, 243)!important;
     padding: 9px;
     width: 23%;
 
 }
 
 .button:hover{
-    background-color:rgb(29, 37, 191) !important;
+    background-color:rgb(231, 168, 214) !important;
 }
 
